@@ -8,8 +8,8 @@
 
 ### On MacOS or Linux, run the app with this command:
 
-`$ DEBUG=myapp:* npm start`
+`$ DEBUG=weighted-consensus:* npm start`
 
 ### On Windows, use this command:
 
-`> set DEBUG=myapp:* & npm start`
+`> set DEBUG=weighted-consensus:* & npm start`
